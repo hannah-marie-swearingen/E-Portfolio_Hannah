@@ -1,26 +1,19 @@
 ---
-title: "My E-Portfolio"
-image: images/MGEM_logo.png
+title: "Hannah Swearingen"
+image: images/senior_photo.jpg
 about:
   template: trestles
   image-width: 20em
   links: 
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/MelserRamon
+      href: https://www.linkedin.com/in/hannah-swearingen-45375b276/
     - icon: github
       text: GitHub
-      href: https://github.com/ramonmelser
+      href: https://github.com/hannah-marie-swearingen
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:hswearin@student.ubc.ca
 ---
 
-Hey there people,
-
-This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites.
-
-Write something about myself, very exciting.
+Environmental Geographer and Geomatics Technologist.

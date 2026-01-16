@@ -1,39 +1,41 @@
 ---
-title: "Resume"
+title: "RESUME"
 ---
 
-# Education
+### EDUCATION
 
--   List your education here.
+**Masters in Geomatics for Ecosystem Management (MGEM)**\
+*Professional Masters, Faculty of Forestry, University of British Columbia (UBC)*
 
-# Publications
+**B.A. Major in Geography: Environment and Sustainability**\
+**Minor in Geographic Information Science (GIS) and Geographic Computation**\
+*Bachelor of Arts, Department of Geography, University of British Columbia*
 
-*Peer-reviewed publications:*
 
--   List any peer-reviewed publications here.
+### EMPLOYMENT
 
-*Reports:*
+**GIS Technologist, Contractor, Mik'maq Nation, New Brunswick**\
+Development of data directory and webmaps for geospatial and remote sensing data. 
 
--   List any non-peer reviewed materials you'd like to share here.
+**Student Assistant for Dr. Pasang Yangjee Sherpa, Ph.D, Institute for Critical Indigenous Studies, UBC**\
+Digitization of analog sources and database construction. Development of content and graphics for ArcGIS StoryMap project. Review and formatting of articles for alignment with publisher guidelines and citation styles (eg. MLA, APA, Chicago).\
+*Oct 2024 - April 2025*
 
-# Conferences & Talks
 
-*Invited Talks*
+### EXPERIENCE
 
--   If you've been invited to speak in a professional setting, list that here.
+**Student, Haida Gwaii Summer Semester on Plants, People, and Place**\
+Intensive in Haida ways of being and knowing related to systems thinking, governance and management, field ecology, and ethnobotany.\
+*May - June 2025*
 
-*Conference Presentations*
+**Editor for Volume 18 of UBC's Trail Six Undergraduate Journal of Geography**\
+Review of journal submissions, collaboration with authors, and liasoning with faculty supervisors. Edits for clarity, substance, and style.\
+*Oct 2023 - April 2024*
 
--   If the presentation was at a conference, list them here.
+**Notetaker, Department of Geography, UBC**\
+*GEOS 406: Watershed Geomorphology (Winter Term 1, 2024).*\
+*GEOG 313: Environmental Justice and Social Change (Winter Term 2, 2025)*\
+Detailed documentation of lecture content and course announcements.
 
-# Awards & Honors
 
--   List any scholarships, bursaries, etc.
 
-# Teaching Assistantships
-
--   List any TA positions you may have held.
-
-# Institutional Service
-
--   Volunteering etc.
