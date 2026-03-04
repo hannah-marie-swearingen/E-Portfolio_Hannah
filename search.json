@@ -1,17 +1,66 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hannah Swearingen",
-    "section": "",
-    "text": "Geomatics Technologist at Tobique First Nation (Neqotkuk). UBC Alumni: Environmental Geography, Forestry."
-  },
-  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "RESUME",
     "section": "",
-    "text": "EDUCATION\nMasters in Geomatics for Ecosystem Management (MGEM)\nProfessional Masters, Faculty of Forestry, University of British Columbia (UBC)\nB.A. Major in Geography: Environment and Sustainability\nMinor in Geographic Information Science (GIS) and Geographic Computation\nBachelor of Arts, Department of Geography, University of British Columbia\n\n\nEMPLOYMENT\nGIS Technologist, Contractor, Mik’maq Nation, New Brunswick\nDevelopment of data directory and webmaps for geospatial and remote sensing data.\nStudent Assistant for Dr. Pasang Yangjee Sherpa, Ph.D, Institute for Critical Indigenous Studies, UBC\nDigitization of analog sources and database construction. Development of content and graphics for ArcGIS StoryMap project. Review and formatting of articles for alignment with publisher guidelines and citation styles (eg. MLA, APA, Chicago).\nOct 2024 - April 2025\n\n\nEXPERIENCE\nStudent, Haida Gwaii Summer Semester on Plants, People, and Place\nIntensive in Haida ways of being and knowing related to systems thinking, governance and management, field ecology, and ethnobotany.\nMay - June 2025\nEditor for Volume 18 of UBC’s Trail Six Undergraduate Journal of Geography\nReview of journal submissions, collaboration with authors, and liasoning with faculty supervisors. Edits for clarity, substance, and style.\nOct 2023 - April 2024\nNotetaker, Department of Geography, UBC\nGEOS 406: Watershed Geomorphology (Winter Term 1, 2024).\nGEOG 313: Environmental Justice and Social Change (Winter Term 2, 2025)\nDetailed documentation of lecture content and course announcements."
+    "text": "EDUCATION\nMasters in Geomatics for Ecosystem Management (MGEM)\nProfessional Masters, Faculty of Forestry, University of British Columbia (UBC)\nB.A. Major in Geography: Environment and Sustainability\nMinor in Geographic Information Science (GIS) and Geographic Computation\nBachelor of Arts, Department of Geography, University of British Columbia\n\n\nEMPLOYMENT\nGIS Technologist, Contractor, Tobique (Neqotkuk) First Nation, New Brunswick\nDevelopment of data directory and webmaps for geospatial and remote sensing data.\nJan 2026 - Present\nStudent Assistant for Dr. Pasang Yangjee Sherpa, Ph.D, Institute for Critical Indigenous Studies, UBC\nDigitization of analog sources and database construction. Development of content and graphics for ArcGIS StoryMap project. Review and formatting of articles for alignment with publisher guidelines and citation styles (eg. MLA, APA, Chicago).\nOct 2024 - April 2025\n\n\nEXPERIENCE\nStudent, Haida Gwaii Summer Semester on Plants, People, and Place\nIntensive in Haida ways of being and knowing related to systems thinking, governance and management, field ecology, and ethnobotany.\nMay - June 2025\nEditor for Volume 18 of UBC’s Trail Six Undergraduate Journal of Geography\nReview of journal submissions, collaboration with authors, and liasoning with faculty supervisors. Edits for clarity, substance, and style.\nOct 2023 - April 2024\nNotetaker, Department of Geography, UBC\nGEOS 406: Watershed Geomorphology (Winter Term 1, 2024).\nGEOG 313: Environmental Justice and Social Change (Winter Term 2, 2025)\nDetailed documentation of lecture content and course announcements."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hannah Swearingen",
+    "section": "",
+    "text": "Geomatics Technologist at Tobique (Neqotkuk) First Nation.\nMaster’s in Geomatics for Ecosystem Management (MGEM), UBC Forestry.\nBachelor of Arts in Environment and Sustainability, UBC Geography."
+  },
+  {
+    "objectID": "content.html",
+    "href": "content.html",
+    "title": "MGEM Portfolio",
+    "section": "",
+    "text": "I have had the honor of working with an amazing set of instructors and peers during the MGEM program (2025-2026), and here highlight some projects and skills from my time with UBC Forestry."
+  },
+  {
+    "objectID": "content.html#remote-sensing",
+    "href": "content.html#remote-sensing",
+    "title": "MGEM Portfolio",
+    "section": "REMOTE SENSING",
+    "text": "REMOTE SENSING\n\nImage Classification\n\n\nChange Detection\n\n\nLiDAR\n\n\nSpectrometry and Hyperspectral"
+  },
+  {
+    "objectID": "content.html#gis-analysis",
+    "href": "content.html#gis-analysis",
+    "title": "MGEM Portfolio",
+    "section": "GIS ANALYSIS",
+    "text": "GIS ANALYSIS\n\nPredictive Modelling\n\n\n\nRandom Forest Predictions\n\n\n\n\nEnvironmental Assessment\n\n\n\nVancouver Island Forest Biodiversity\n\n\n\n\nTechnical Challenges\n\n\n\nChallenges with Air Photo Digitization\n\n\n\n\n\nGeolocation of Vancouver Trees\n\n\n\n\nInterpolation Methods\n\n\n\nInterpolation of DEMs\n\n\n\n\nNetwork Analysis\n\n\n\nReport on Vancouver Island Salmon Stream Network\n\n\n\n\nLeast Cost Paths\n\n\n\nGrizzly Bear Pathways\n\n\n\n\nHydrological Modeling\n\n\n\nNahmit River Modeling"
+  },
+  {
+    "objectID": "content.html#contemporary-challenges-in-ecosystem-management",
+    "href": "content.html#contemporary-challenges-in-ecosystem-management",
+    "title": "MGEM Portfolio",
+    "section": "Contemporary Challenges in Ecosystem Management",
+    "text": "Contemporary Challenges in Ecosystem Management\n\n\n\nPresentation on Rethinking Conservation: Deconstructing the Wilderness\n\n\n\n\n\nForest Stewardship Council Report Series"
+  },
+  {
+    "objectID": "content.html#professional-communication",
+    "href": "content.html#professional-communication",
+    "title": "MGEM Portfolio",
+    "section": "Professional Communication",
+    "text": "Professional Communication\n\n\n\nCase Study: Conflict Negotiation\n\n\n\n\n\nPresentation on Schweiger et al. 2018"
+  },
+  {
+    "objectID": "content.html#project-development",
+    "href": "content.html#project-development",
+    "title": "MGEM Portfolio",
+    "section": "Project Development",
+    "text": "Project Development\n\n\n\nProposal for the Study of Common Yarrow"
+  },
+  {
+    "objectID": "content.html#technical-skills",
+    "href": "content.html#technical-skills",
+    "title": "MGEM Portfolio",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\n\n\n\n\n\n\nCoding\nSoftware\n\n\n\n\nPython\n\nArcPy\nrasterio\nnumpy\npandas\nmatplotlib\n\nR\n\nsf\nterra\ntidyverse\nlidR\nsgsr\nggplot\n\nSQL\n\nArcGIS Pro\nQGIS\nQField (web mapping)\nENVI (image processing)\nCloud Compare (LiDAR)"
   },
   {
     "objectID": "publications.html",
@@ -19,40 +68,5 @@
     "title": "Publications",
     "section": "",
     "text": "Peer-reviewed publications\nSwearingen, H., Otani, F., Siddiqui, S., Dhesi, E. (2025). Postcolonialisms in Post-Apocalyptic Landscapes: Colonially-Driven Environmental Degradation and Coloniality in Hayao Miyazaki’s Nausicaä of the Valley of the Wind. UBC Trail Six: Undergraduate Journal of Geography, Volume 19, pp. 68-76. https://trailsix.geog.ubc.ca/volumes/current/.\nReports\nSwearingen, H., Phan, M., Belec, J., Dufour, G., Kittirtanapaibool, W. (2024) Let’s Reuse-it!: Institutional Sustainability and Faculty and Staff Reuse at UBC. UBC SEEDs Sustainability Library. https://sustain.ubc.ca/sites/default/files/seedslibrary/GEOG_371_%20Reuse-it%21%20User%20Experience_Final%20Report.pdf.\nProjects\nSwearingen, H., Chu, S. (2024). Environmental Choice Feasibility Index for the City of Vancouver. UBC Blogs. [GIS Project Report]. https://blogs.ubc.ca/geos370ecfi/.\n\nCONFERENCES AND TALKS\nConference Presentations\nSwearingen, H., Brown, T. (2023). Sleep, Dreams, Creativity, and Innovation: The Sleep-Environment Pathway of Organizational Innovation. WRDS 150 Student Conference. [Virtual], University of British Columbia, Vancouver, BC, 2 May 2023."
-  },
-  {
-    "objectID": "content_development.html",
-    "href": "content_development.html",
-    "title": "Content & Deliverables",
-    "section": "",
-    "text": "Project Deliverable 1\nThis is a sample page where you can archive project deliverables."
-  },
-  {
-    "objectID": "content.html",
-    "href": "content.html",
-    "title": "Content & Deliverables",
-    "section": "",
-    "text": "This is a sample page where you can archive project deliverables. Every header you use will correspond to a tab in the legend - shown on the right-hand side of your screen (“On this page”).\nIf you’ve produced any GIS layers for your 599 project, this may be a good place to share them as interactive maps through leaflet. Alternatively, you can upload high-res figures showing correlations, box-plots, etc. from your report here, and provide a brief overview of key project results. If you have written some useful functions, you may also want to share those here to demonstrate proficiency in particular coding languages or synergies between notable coding packages.\n\n\nSample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here.\n\n\n\n\n\n\n\n\n\nSample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a ‘tabset’ in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let’s showcase a function for calculating NDVI in R and Python.\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)\n\n\n\n\n\n\nYou can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:\n\n\n&lt;iframe width=\"900\" height=\"700\"\nsrc=\"https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool\"&gt;\n&lt;/iframe&gt;\n\nThe full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
-  },
-  {
-    "objectID": "content.html#leaflet",
-    "href": "content.html#leaflet",
-    "title": "Content & Deliverables",
-    "section": "",
-    "text": "Sample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here."
-  },
-  {
-    "objectID": "content.html#code-snippets",
-    "href": "content.html#code-snippets",
-    "title": "Content & Deliverables",
-    "section": "",
-    "text": "Sample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a ‘tabset’ in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let’s showcase a function for calculating NDVI in R and Python.\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)"
-  },
-  {
-    "objectID": "content.html#external-links",
-    "href": "content.html#external-links",
-    "title": "Content & Deliverables",
-    "section": "",
-    "text": "You can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:\n\n\n&lt;iframe width=\"900\" height=\"700\"\nsrc=\"https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool\"&gt;\n&lt;/iframe&gt;\n\nThe full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
   }
 ]

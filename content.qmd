@@ -1,5 +1,91 @@
 ---
-title: "Project Content and Deliverable Samples"
+title: "MGEM Portfolio"
 format: html
 editor: visual
 ---
+
+I have had the honor of working with an amazing set of instructors and peers during the MGEM program (2025-2026), and here highlight some projects and skills from my time with UBC Forestry.
+
+## REMOTE SENSING
+
+### Image Classification
+
+### Change Detection
+
+### LiDAR
+
+### Spectrometry and Hyperspectral
+
+## GIS ANALYSIS
+
+### Predictive Modelling
+
+![Random Forest Predictions](content/GEM511_RF_Predictions.pdf){width="80%" fig-align="left"}
+
+### Environmental Assessment
+
+![Vancouver Island Forest Biodiversity](content/GEM510_VanIsl_Forests.pdf){width="80%" fig-align="left"}
+
+### Technical Challenges
+
+![Challenges with Air Photo Digitization](content/GEM510_AirPhoto_Digitization.pdf){width="80%" fig-align="left"}
+
+![Geolocation of Vancouver Trees](content/GEM510_Tree_Geolocating.pdf){width="80%" fig-align="left"}
+
+### Interpolation Methods
+
+![Interpolation of DEMs](content/GEM511_InterpolationMethods.pdf){width="80%" fig-align="left"}
+
+### Network Analysis
+
+![Report on Vancouver Island Salmon Stream Network](content/GEM511_SalmonStream_Report.pdf){width="80%" fig-align="left"}
+
+### Least Cost Paths
+
+![Grizzly Bear Pathways](content/GEM510_LeastCostPath.pdf){width="80%" fig-align="left"}
+
+### Hydrological Modeling
+
+![Nahmit River Modeling](content/GEM511_NahmitRiver_Modeling.pdf){width="80%" fig-align="left"}
+
+## Contemporary Challenges in Ecosystem Management
+
+![Presentation on Rethinking Conservation: Deconstructing the Wilderness](content/FCOR599_Deconstructing_the_Wilderness_Presentation.pdf){width="80%" fig-align="left"}
+
+![Forest Stewardship Council Report Series](content/FCOR511_Sarkies_Swearingen_FSC_Reports.pdf){width="80%" fig-align="left"}
+
+## Professional Communication
+
+![Case Study: Conflict Negotiation](content/FCOR510_LakeOkanagan_ConflictNegotiation.pdf){width="80%" fig-align="left"}
+
+![Presentation on Schweiger et al. 2018](content/GEM521_Schweiger_Presentation.pdf){width="80%" fig-align="left"}
+
+## Project Development
+
+![Proposal for the Study of Common Yarrow](content/GEM500_LandscapeEcology_Proposal.pdf){width="80%" fig-align="left"}
+
+## Technical Skills
+
++------------------+-----------------------------+
+| Coding           | Software                    |
++==================+=============================+
+| Python           | -   ArcGIS Pro              |
+|                  | -   QGIS                    |
+| -   ArcPy        | -   QField (web mapping)    |
+| -   rasterio     | -   ENVI (image processing) |
+| -   numpy        | -   Cloud Compare (LiDAR)   |
+| -   pandas       |                             |
+| -   matplotlib   |                             |
+|                  |                             |
+| R                |                             |
+|                  |                             |
+| -   sf           |                             |
+| -   terra        |                             |
+| -   tidyverse    |                             |
+| -   lidR         |                             |
+| -   sgsr         |                             |
+| -   ggplot       |                             |
+|                  |                             |
+| SQL              |                             |
++------------------+-----------------------------+
+

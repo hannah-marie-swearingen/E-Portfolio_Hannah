@@ -14,8 +14,9 @@ title: "RESUME"
 
 ### EMPLOYMENT
 
-**GIS Technologist, Contractor, Mik'maq Nation, New Brunswick**\
-Development of data directory and webmaps for geospatial and remote sensing data. 
+**GIS Technologist, Contractor, Tobique (Neqotkuk) First Nation, New Brunswick**\
+Development of data directory and webmaps for geospatial and remote sensing data. \
+*Jan 2026 - Present*
 
 **Student Assistant for Dr. Pasang Yangjee Sherpa, Ph.D, Institute for Critical Indigenous Studies, UBC**\
 Digitization of analog sources and database construction. Development of content and graphics for ArcGIS StoryMap project. Review and formatting of articles for alignment with publisher guidelines and citation styles (eg. MLA, APA, Chicago).\

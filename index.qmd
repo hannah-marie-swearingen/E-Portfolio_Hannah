@@ -16,5 +16,9 @@ about:
       href: mailto:hswearin@student.ubc.ca
 ---
 
-Geomatics Technologist at Tobique First Nation (Neqotkuk).
-UBC Alumni: Environmental Geography, Forestry. 
+Geomatics Technologist at Tobique (Neqotkuk) First Nation.
+
+Master's in Geomatics for Ecosystem Management (MGEM), UBC Forestry.
+
+Bachelor of Arts in Environment and Sustainability, UBC Geography.
+
